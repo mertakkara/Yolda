@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "682838231158",
+    "firebase_url": "https://yolda-df8c4.firebaseio.com",
+    "project_id": "yolda-df8c4",
+    "storage_bucket": "yolda-df8c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682838231158:android:b7897ff6a1a0b128fab757",
+        "android_client_info": {
+          "package_name": "com.rationalstudio.yolda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682838231158-cmpp8iphn7tdgne3av1u768coubjqnb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rationalstudio.yolda",
+            "certificate_hash": "a73be64b12f31a9d021e08a30deffb21c59cd87f"
+          }
+        },
+        {
+          "client_id": "682838231158-ecr6db1rnmfhiis6rl14h1fc1vnlehl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzNSFKuIQYYFu7Y7ZI3pdfxfWfKrcl3FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682838231158-ecr6db1rnmfhiis6rl14h1fc1vnlehl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
